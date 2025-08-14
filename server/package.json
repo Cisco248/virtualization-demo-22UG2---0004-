@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "start test"
+  },
+  "author": "Cisco248",
+  "license": "ISC"
+}
