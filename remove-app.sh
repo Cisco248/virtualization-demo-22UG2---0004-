@@ -1,2 +1,2 @@
-echo "Removed app."
+echo ">>> Remove application"
 docker-compose down --volumes --remove-orphans
