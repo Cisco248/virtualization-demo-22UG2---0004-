@@ -8,5 +8,10 @@
     "test": "start test"
   },
   "author": "Cisco248",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "ipaddr.js": "^2.2.0"
+  }
 }
